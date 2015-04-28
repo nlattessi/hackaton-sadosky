@@ -1,2 +1,2 @@
 # hackaton-sadosky
-Codigo y documentos de la Hackaton por la Inclusio de Sadosky, 2014
+Codigo y documentos de la Hackaton por la Inclusion de Sadosky, 2014
